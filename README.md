@@ -2,7 +2,8 @@
 
 # **🎬 Social Media Usage Analysis**
 
-<img width="1672" height="941" alt="Banner" src="https://chatgpt.com/s/m_6a2587e708b48191ae00cda8702b5954" />
+<img width="1672" height="941" alt="ChatGPT Image Jun 7, 2026, 08_36_47 PM" src="https://github.com/user-attachments/assets/92252623-0e89-4358-b388-7c516cdf182b" />
+
 
 ---
 
