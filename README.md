@@ -102,3 +102,36 @@ Data Modeling
 
 🎯 Entertainment, business, learning, networking, and socializing are among the primary reasons for platform usage.
 
+---
+
+# **📚 Data Story**
+
+The dashboard reveals how social media has become an essential part of daily life across different countries and demographics.
+
+### Key findings include:
+
+Users spend significant time engaging with social media platforms daily.
+Peak activity occurs during evening and nighttime hours.
+Entertainment and networking are major drivers of engagement.
+Platform preference differs across regions and user groups.
+Influencers contribute heavily to content creation and audience engagement.
+Geographic analysis highlights regions with stronger social media adoption.
+
+👉 Overall, user engagement is strongly influenced by:
+
+Demographics,
+Platform preference,
+Daily usage habits,
+Content-sharing behavior,
+Time of activity,
+Geographic location,
+
+---
+
+## 📎 Dashboard Snapshot 
+
+<img width="1745" height="807" alt="Dashboard" src="https://github.com/user-attachments/assets/32d72b58-d239-4b19-a336-aaa701eacc96" />
+
+
+<img width="1422" height="797" alt="Screenshot 2026-06-07 185357" src="https://github.com/user-attachments/assets/c4d8ac9e-be44-4a33-a4b8-94f65970ed8c" />
+
