@@ -23,7 +23,8 @@ https://github.com/RutujaYeola
 
 # **📌 Dataset Source**
 
-https://www.kaggle.com/datasets/eshummalik/insta-trends-turning-data-into-virality
+[https://www.kaggle.com/datasets/eshummalik/insta-trends-turning-data-into-virality](https://www.kaggle.com/datasets/hamnamunir/social-media-user-behavior-dataset?select=social_media_user_behavior.csv)
+
 
 ---
 
